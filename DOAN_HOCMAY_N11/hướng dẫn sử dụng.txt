@@ -1,0 +1,5 @@
+cài đặt các thư viện cần thiết
+
+pip install streamlit pandas numpy tensorflow keras pillow streamlit_drawable_canvas
+
+vào vscode open folder-> mở terminal -> chạy lệnh: streamlit run Demo.py
